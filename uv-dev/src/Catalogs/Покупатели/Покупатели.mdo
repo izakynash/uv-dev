@@ -171,6 +171,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="096df141-7f93-4b5d-bb7b-eb4bc5a203c9">
+    <name>Город</name>
+    <synonym>
+      <key>ru</key>
+      <value>Город</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>100</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="319bd0e1-8157-49d4-9ce7-e4e5f2b891a3">
     <producedTypes>
       <objectType typeId="37ef3178-e9bc-4617-9973-1b5e03cfaa15" valueTypeId="94d8b57e-2483-4981-8b84-b80ce47b923b"/>
