@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="20add849-f595-4af3-bc31-a4b9a07744cb">
+  <name>ЗаполнениеПроизвольнымиДанными</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнение произвольными данными</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonCommand xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="340c2352-75ad-4cad-b58b-cc80ee186d20">
+  <name>ЗаполнитьПроизвольнымиДанными</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнить произвольными данными</value>
+  </synonym>
+  <group>FormCommandBarImportant</group>
+  <commandParameterType/>
+  <representation>Auto</representation>
+</mdclass:CommonCommand>

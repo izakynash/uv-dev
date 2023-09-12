@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="809d776c-53a3-45b6-acf8-55c6a3805884">
+  <producedTypes>
+    <containerType typeId="6690b21a-65a7-4203-998a-1ab57d1592ed" valueTypeId="065be2f9-f815-4a32-9cde-caee7ba02dd7"/>
+  </producedTypes>
+  <name>ОбъектыЗаполненияПроизвольнымиДанными</name>
+  <synonym>
+    <key>ru</key>
+    <value>Объекты заполнения произвольными данными</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Покупатели</types>
+    <types>CatalogRef.Номенклатура</types>
+  </type>
+</mdclass:DefinedType>
